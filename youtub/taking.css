@@ -1,0 +1,9 @@
+.taking{
+    display: flex;
+    padding-top: 60px;
+    align-items: center;
+    z-index: 0;
+}
+.img{
+    width: 200%;
+}
